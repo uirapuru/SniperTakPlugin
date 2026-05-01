@@ -163,7 +163,7 @@ SniperTAK is developed independently as a free, open tool for the ATAK community
 
 If this plugin saves you time or helps your team, consider buying me a coffee — it fuels late-night debugging sessions and new features:
 
-**[☕ Buy Me a Coffee → buymeacoffee.com/snipertak](https://buymeacoffee.com/snipertak)**
+**[☕ Buy Me a Coffee → buymeacoffee.com/uirapuru](https://buymeacoffee.com/uirapuru)**
 
 No obligation, always appreciated. Thank you! 🙏
 
@@ -342,7 +342,7 @@ SniperTAK jest rozwijany niezależnie jako darmowe narzędzie dla społeczności
 
 Jeśli plugin oszczędza Ci czas lub wspiera Twój zespół — postaw mi kawę! Każda kawa to paliwo do nocnych sesji debugowania i nowych funkcji:
 
-**[☕ Postaw kawę → buymeacoffee.com/snipertak](https://buymeacoffee.com/snipertak)**
+**[☕ Postaw kawę → buymeacoffee.com/uirapuru](https://buymeacoffee.com/uirapuru)**
 
 Nie ma obowiązku, ale każde wsparcie jest ogromnie cenione. Dziękuję! 🙏
 
