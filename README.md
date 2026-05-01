@@ -1,3 +1,5 @@
+<img width="800" src="https://github.com/user-attachments/assets/779412ca-d726-493a-8b47-bec9420c1347" />
+
 # SniperTAK — Plugin balistyczny dla ATAK-CIV
 
 > 🇵🇱 [Wersja polska poniżej](#-snipertak--plugin-balistyczny-dla-atak-civ-1)
